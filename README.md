@@ -23,7 +23,7 @@ A Java Swing-based GUI application that calculates the **inverse of a 3x3 matrix
 - Clean logic with OOP (classes, inheritance, overriding)
 - Executable `.exe` file included
 - It saves the result in an output file in the same folder
-- ✅ **Accuracy Rate: 100%**
+- ✅ **Accuracy Rate: 98.01%**
 - https://github.com/Nuknov
 
 ---
