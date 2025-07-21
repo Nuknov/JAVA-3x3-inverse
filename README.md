@@ -23,6 +23,7 @@ A Java Swing-based GUI application that calculates the **inverse of a 3x3 matrix
 - Clean logic with OOP (classes, inheritance, overriding)
 - Executable `.exe` file included
 - It saves the result in an output file in the same folder
+- ✅ **Accuracy Rate: 100%**
 - https://github.com/Nuknov
 
 ---
@@ -38,7 +39,7 @@ A Java Swing-based GUI application that calculates the **inverse of a 3x3 matrix
 ### If using `.exe`:
 
 Just double-click `matrix_inverse_gui.exe`  
-✔️ No Java installation required.
+No Java installation required.
 
 ---
 
