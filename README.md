@@ -2,6 +2,8 @@
 
 A Java Swing-based GUI application that calculates the **inverse of a 3x3 matrix**, along with its **determinant**, **adjoint**, and **transpose**. Developed by **Ahmed Naveed** aka **Nuknov**. Normal programming project for students.
 
+**⚠️ You guys should have atleast java installed.**
+
 ---
 
 ## Screenshot
@@ -48,7 +50,7 @@ No Java installation required.
 **Ahmed Naveed**  
 `Nuknov`  
 https://github.com/Nuknov
-
+https://twitter.com/Nuknov 
 ---
 
 ## License
