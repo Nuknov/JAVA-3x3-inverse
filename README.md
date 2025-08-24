@@ -46,8 +46,6 @@ No Java installation required.
 ---
 
 ## Author
-
-**Ahmed Naveed**  
 `Nuknov`  
 https://github.com/Nuknov
 https://twitter.com/Nuknov 
@@ -62,3 +60,4 @@ See the `LICENSE` file for more info.
 
 # JAVA-3x3-inverse
 A Java GUI-based 3x3 matrix inverse calculator with .exe export. A small programming project for students.
+
